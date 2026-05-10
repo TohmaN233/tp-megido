@@ -25,7 +25,7 @@ The proofreading workflow in this repository is designed to locate these problem
 
 ## Example Screenshots
 
-These screenshots show the patched offline version running with translated UI, skill text, character profile text, and story dialogue:
+These screenshots show the patched offline version running with translated daily chat, skill text, character profile text, and story dialogue:
 
 | Home / lobby text | Skill and battle text |
 |---|---|
