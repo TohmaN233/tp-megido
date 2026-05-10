@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Game / generated assets. Keep these local.
+*.apk
+*.apks
+*.aab
+*.mvgl
+*.db
+*.sqlite
+*.jks
+*.keystore
+
+# Generated working directories
+extracted_japanese_text/
+Fortransjp/
+packed_translated/
+patched_apk/
+patched_runtime_cache/
+signing/
+pydeps/
+node_modules/
+已翻译完成/
+
+# Large translation exports
+*.xlsx
+*.xls
+*.tsv
+*.csv
+*.txt
+
+# Keep selected repo files tracked.
+!data/.gitkeep
+!data/japanese_text_unique.txt
+!.claude/commands/*.md
+!requirements.txt
+!glossary/*.json
