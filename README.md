@@ -23,6 +23,18 @@ This is the main motivation of the repository: AI first drafts are fast, but the
 
 The proofreading workflow in this repository is designed to locate these problems systematically.
 
+## Example Screenshots
+
+These screenshots show the patched offline version running with translated UI, skill text, character profile text, and story dialogue:
+
+| Home / lobby text | Skill and battle text |
+|---|---|
+| ![Translated home screen](assets/screenshots/1.png) | ![Translated skill text](assets/screenshots/2.png) |
+
+| Character profile | Story dialogue |
+|---|---|
+| ![Translated character profile](assets/screenshots/3.png) | ![Translated story dialogue](assets/screenshots/4.png) |
+
 A typical translation project can be roughly divided into four stages:
 
 ```text
