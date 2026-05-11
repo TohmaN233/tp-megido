@@ -264,22 +264,6 @@ apk/com_dena_a12021245_v2.0.1.apk
 python .\tools\patch_apk_assets.py --apk .\apk\com_dena_a12021245_v2.0.1.apk --replacements-dir .\packed_translated\mvgl --output .\patched_apk\com_dena_a12021245_v2.0.1_cn_unsigned.apk
 ```
 
-这个脚本使用 Python 标准库直接替换 APK zip 内的资源，更新 `assets/offlinechecksumcache` 中对应 MVGL 的 CRC，并移除旧签名条目。因此输出是未签名 APK，必须重新签名后才能安装。
-
-## 6. 封入 APK 和签名
-
-先准备原版 APK，例如：
-
-```text
-apk/com_dena_a12021245_v2.0.1.apk
-```
-
-将封好的 MVGL 写入 APK：
-
-```powershell
-python .\tools\patch_apk_assets.py --apk .\apk\com_dena_a12021245_v2.0.1.apk --replacements-dir .\packed_translated\mvgl --output .\patched_apk\com_dena_a12021245_v2.0.1_cn_unsigned.apk
-```
-
 这个脚本本身不调用 apktool，也不调用 Java 签名器；它使用 Python 标准库直接替换 APK zip 内的资源，更新 `assets/offlinechecksumcache` 中对应 MVGL 的 CRC，并移除旧签名条目。因此输出是未签名 APK，必须重新签名后才能安装。
 
 推荐签名方式：
