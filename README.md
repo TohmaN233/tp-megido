@@ -154,6 +154,8 @@ The repository includes a proofreading command:
 
 This command is the part of the repository I most want to share. Put it under `.claude/commands/` in your project, and Claude Code / Codex can review translations with a fixed standard. Two modes are recommended:
 
+#I PUT MY UPDATED TRANSLATE/PROOFREADING SKILLS IN MY YN-TRANSLATION-WORKSHOP REPO.
+
 ```text
 montecarlo; game; Japanese->Simplified Chinese; japanese_text_unique.txt; chinese_text_unique.txt; glossary/megido72_terms_ainee.json
 split 500; game; Japanese->Simplified Chinese; japanese_text_unique.txt; chinese_text_unique.txt; glossary/megido72_terms_ainee.json
