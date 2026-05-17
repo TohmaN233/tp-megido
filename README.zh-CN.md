@@ -19,7 +19,8 @@
 - 混入思考过程（混入解释、道歉等）
 - 翻译膨胀 / AI 工作中的胡言乱语（AI 幻觉 + 流口水；简单句被扩写成一大段，奇怪语言，上下文污染成复读机）。
 
-这个项目的校对 workflow，主要就是为了系统性地定位这些问题。
+这个项目的校对 workflow，主要就是为了系统性地定位这些问题。现在强烈推荐有用cc或者codex的话用我本人制作的翻译校对SKILL以及工具
+（https://github.com/TohmaN233/YN-translation-workshop/tree/main）
 
 ## 示例截图
 
