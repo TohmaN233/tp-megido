@@ -2,7 +2,7 @@
 
 Chinese documentation: [README.zh-CN.md](README.zh-CN.md)
 
-For translation work and proofreading, strongly recomment my own skills and tool see: https://github.com/TohmaN233/YN-translation-workshop/blob/main/%E5%AE%9D%E5%AE%9D%E6%95%99%E7%A8%8B-%E4%BB%A5%E6%B1%89%E5%8C%96%E4%B8%80%E6%9C%AC%E5%B0%8F%E8%AF%B4%E4%B8%BA%E4%BE%8B/%E6%95%99%E7%A8%8B.md
+For translation work and proofreading, strongly recomment my own skills and tool see: [https://github.com/TohmaN233/YN-translation-workshop/blob/main/%E5%AE%9D%E5%AE%9D%E6%95%99%E7%A8%8B-%E4%BB%A5%E6%B1%89%E5%8C%96%E4%B8%80%E6%9C%AC%E5%B0%8F%E8%AF%B4%E4%B8%BA%E4%BE%8B/%E6%95%99%E7%A8%8B.md](https://github.com/TohmaN233/YN-translation-workshop/blob/main/README.en.md)
 
 This repository is not meant to publish a complete localization patch. Its purpose is to share an LLM-assisted translation workflow for long-form projects such as visual novels, story-heavy games, and large script archives, especially the proofreading command we used with Claude Code / Codex to find and fix the most common, most dangerous failures in AI first drafts.
 
