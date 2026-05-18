@@ -341,4 +341,5 @@ com.dena.a12021245
 
 但还是提供一下汉化文件吧,说不定有人想要呢:
 链接: https://pan.baidu.com/s/12WwHbk2cqtI2MFi8hq47zQ 提取码: md72 
- 
+【腾讯文档】MEGIDO72 AI汉化版错误汇总
+https://docs.qq.com/sheet/DVEhxS1psc2pqYWxO?tab=BB08J2
